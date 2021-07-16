@@ -4,11 +4,11 @@ The intention of this challenge is to see your code style and structure and appr
 
 ## Instructions
 
-- fork this repo (ensure it remains private)
-- remove all colaborators from the repository
-- perform the technical challenge in a branch off main
-- create a PR into main when you are done
-- add @rysbilinski back to the repository for review
+- copy this readme and add to new github repo (private)
+- build your solution and add any notes to the readme you like (can also add some screenshots)
+- deploy your bot and add the handle to the readme
+- when you're ready, add me to your repository as a colaborator and I will review
+- we can then schedule a call to go through your solution and approach
 
 ## The Challenge
 
